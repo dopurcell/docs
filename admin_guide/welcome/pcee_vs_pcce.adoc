@@ -3,8 +3,7 @@
 This article describes the key differences between Compute in Prisma Cloud Enterprise Edition and Prisma Cloud Compute Edition.
 Use this guide to determine which option is right for you.
 
-image::pcee_vs_pcce_overview.png[width=800]
-
+image::https://raw.githubusercontent.com/twistlock/docs/master/admin_guide/welcome/images/pcee_vs_pcce_overview.png[pc enetrprise vs pc compute]
 
 === How is Compute delivered?
 
