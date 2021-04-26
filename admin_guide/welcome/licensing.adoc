@@ -104,7 +104,7 @@ You would procure a license with 700 credits:
 100 container hosts * 7 credits per container host = 700 credits
 
 Serverless functions are licensed based on the number of invocations, and averaged over the period of a month.
-Every 1 million serverless invocations in a one month period counts as 1 credits.
+Every 1 million serverless invocations in a one month period counts as 1 credit.
 
 *Example*: Assume you have 5 functions and, in total, they are invoked 8 million times over the period month.
 You would procure a license with 8 credits.
