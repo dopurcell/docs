@@ -55,7 +55,7 @@ For multi-tenancy, Compute Edition offers a feature called Projects.
 
 When the Prisma Cloud CSPM and CWPP tools work together, Palo Alto Networks can offer economies of scale by sharing data (so called "data overlays").
 The Prisma Cloud CSPM tool has always offered the ability to integrate with third party scanners, such as Tenable, to supplement configuration assessments with host vulnerability data.
-Starting with the Nov 2019 release of Enterprise Edition, the CSPM tool can utilize the host vulnerability data Compute Defender collects as part of its regular scans.
+Starting with the Nov 2019 release of Enterprise Edition, the CSPM tool can utilize the host vulnerability data that Compute Defender collects as part of its regular scans.
 Customers that have already licensed one workload for a host can leverage that single workload for configuration assessments by the CSPM tool, host vulnerability scanning (via Compute Defender), and host runtime protection (via Compute Defender).
 
 Customers can expect additional "data overlays" in future releases, including better ways to gauge security posture with combined dashboards.
