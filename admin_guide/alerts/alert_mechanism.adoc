@@ -29,7 +29,7 @@ For example, new JIRA issues can only be opened when vulnerability rules are tri
 
 === Triggers
 
-Most alerts trigger on a policy violation.
+Most alerts trigger on a policy violation and.
 When policy is the trigger, you can optionally choose to trigger on specific rules rather than the entire policy.
 Vulnerability, compliance, and cloud discovery alerts work differently.
 
